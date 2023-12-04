@@ -5,10 +5,11 @@
 | mobo | Gigabyte Gigabyte Z790 AORUS ELITE AX |
 | cpu | Intel i9 14900k |
 | gpu | MSI Radeon RX590 |
-| ram | CORSAIR 64GB VEN DDR5 6400 |
-| psu | EVGA G3, 750w |
 | wifi/bluetooh card | fenvi T919 |
+| ram | CORSAIR 64GB VEN DDR5 6400 |
+| ssd | WD Black SN850X |
 | smbios | MacPro7,1 |
+| psu | EVGA G3, 750w |
 
 ## Bios settings
 | Item | Detail |
@@ -21,6 +22,7 @@
 
 ## Notes
 - Needed to physically remove the m.2 wifi that comes with the board
+- Probably would have just gotten a working m.2 wifi to replace it instead of the fenvi, but here we are
 
 ## What does not work?
 - ???
